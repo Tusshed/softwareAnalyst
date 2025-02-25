@@ -2,27 +2,30 @@ import ProjectsText from "./ProjectsText";
 import SingleProject from "./SingleProject";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import Img1 from "../../assets/images/website-img-1.jpg";
+import Img2 from "../../assets/images/website-img-3.jpg";
+import Img3 from "../../assets/images/website-img-4.jpg";
 
 const projects = [
   {
     name: " Software Testing & Quality Assurance",
     year: "Sept2023",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
+    image: Img1,
     link: "#",
   },
   {
     name: " Business Process Optimization",
     year: "Jan2023",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: Img2,
     link: "#",
   },
   {
     name: "Dashboard & Reporting System",
     year: "May2024",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: Img3,
     link: "#",
   },
 ];
