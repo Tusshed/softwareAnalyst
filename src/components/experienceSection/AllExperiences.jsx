@@ -5,14 +5,13 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
+    job: "Software Analyst",
     company: "Alex Apps",
-    date: "2022 - Present",
+    date: "2023 - 2024",
     responsibilities: [
-      "Implementing reusable components.",
-      "Participating in large scale application.",
-      "Working on the performance of web applications.",
-      "Generating new ideas for better user experience.",
+      "Analyzing software requirements and system workflows.",
+      "Collaborating with stakeholders to optimize business processes.",
+      "Identifying and resolving software inefficiencies to improve performance.",
     ],
   },
   {

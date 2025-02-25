@@ -18,8 +18,7 @@ function App() {
       <HeroGradient />
       <SubHeroMain />
       <AboutMeMain />
-      <SkillsMain />
-      <SubSkills />
+
       <ExperienceMain />
       <ProjectsMain />
       <ContactMeMain />
