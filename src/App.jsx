@@ -7,6 +7,7 @@ import HeroMain from "./components/heroSection/HeroMain";
 import NavbarMain from "./components/navbar/NavbarMain";
 import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import SubHeroMain from "./components/subHeroSection/SubHeroMain";
+import TechnicalExpertise from "./components/technicalSkillsSection/TechnicalExpertise";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
       <HeroGradient />
       <SubHeroMain />
       <AboutMeMain />
-
+      <TechnicalExpertise />
       <ExperienceMain />
       <ProjectsMain />
       <ContactMeMain />
