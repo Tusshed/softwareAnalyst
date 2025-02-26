@@ -5,28 +5,28 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Software Analyst",
-    company: "Alex Apps",
-    date: "2023 - 2024",
+    job: "Junior Quality Assurance Tester",
+    company: "Access Bank PLC",
+    date: "",
     responsibilities: [
-      "Analyzing software requirements and system workflows.",
-      "Collaborating with stakeholders to optimize business processes.",
-      "Identifying and resolving software inefficiencies to improve performance.",
+      "Defined test strategies with developers and analysts.",
+      "Conducted regression testing and tracked defects in JIRA.",
+      "Ensured compliance with banking standards and security rules throughout the testing process.",
+    ],
+  },
+  {
+    job: "Software Quality Assurance Tester",
+    company: "uTest Massachusetts, USA",
+    date: "(Freelance)",
+    responsibilities: [
+      "Ensured clarity and testability of project requirements.",
+      "Designed and executed functional and non-functional test cases.",
+      "Tracked defects and improved testing with automation tools.",
     ],
   },
   {
     job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
-    responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
-    ],
-  },
-  {
-    job: "Course Instructor",
-    company: "Sprints",
+    company: "self service desk",
     date: "2024 - Present",
     responsibilities: [
       "Teaching JavaScript, React and TailwindCSS.",

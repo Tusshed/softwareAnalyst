@@ -3,27 +3,27 @@ import SingleProject from "./SingleProject";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 import Img1 from "../../assets/images/website-img-1.jpg";
-import Img2 from "../../assets/images/website-img-3.jpg";
-import Img3 from "../../assets/images/website-img-4.jpg";
+import Img2 from "../../assets/images/website-img-4.jpg";
+import Img3 from "../../assets/images/website-img-3.png";
 
 const projects = [
   {
-    name: " Software Testing & Quality Assurance",
-    year: "Sept2023",
+    name: " Students Self Service desk ",
+    year: " New Brunswick Community College ",
     align: "left",
     image: Img1,
     link: "#",
   },
   {
-    name: " Business Process Optimization",
-    year: "Jan2023",
+    name: "Real Estate Website Optimization",
+    year: "Adron Homes & Properties",
     align: "right",
     image: Img2,
     link: "#",
   },
   {
     name: "Dashboard & Reporting System",
-    year: "May2024",
+    year: "xBusiness",
     align: "left",
     image: Img3,
     link: "#",
