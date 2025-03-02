@@ -16,7 +16,7 @@ const skills = [
   },
   {
     title: "Test Management & Tools",
-    items: ["JIRA", "Selenium IDE"],
+    items: ["JIRA", "Selenium IDE", "Postman", "Testcollab ", "TestRail"],
   },
   {
     title: "Test Case Development",

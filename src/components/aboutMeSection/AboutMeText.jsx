@@ -8,10 +8,10 @@ const AboutMeText = () => {
         Hi, I&lsquo;m Gaby, A detail-oriented Software Quality Assurance Tester
         with 6 years of experience in software testing and quality assurance.
         Adept at test case design, execution, defect tracking, and reporting,
-        with expertise in manual and automated testing using tools such as JIRA
-        and Selenium IDE. A strong background in functional, regression, and
-        user acceptance testing across different industries, including banking
-        and finance.
+        with expertise in manual and automated testing using tools such as JIRA,
+        Postman, Jmeter, Testcollab, qtest, TestRail, Bugzilla and Selenium IDE.
+        A strong background in functional, regression, and user acceptance
+        testing across different industries, including banking and finance.
       </p>
       <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center">
         <Link

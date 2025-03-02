@@ -25,13 +25,13 @@ const experiences = [
     ],
   },
   {
-    job: "Course Instructor",
-    company: "self service desk",
-    date: "2024 - Present",
+    job: "Quality Assurance (QA) Team",
+    company: "CircuitTv",
+    date: "Nigeria",
     responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Ensured app stability under high user traffic.",
+      "Verified content security to prevent piracy and unauthorized access.",
+      "Tested core features like video playback, search, and subscriptions.",
     ],
   },
 ];

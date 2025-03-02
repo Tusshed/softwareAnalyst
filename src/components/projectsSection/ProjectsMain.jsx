@@ -5,14 +5,17 @@ import { fadeIn } from "../../framerMotion/variants";
 import Img1 from "../../assets/images/website-img-1.jpg";
 import Img2 from "../../assets/images/website-img-4.jpg";
 import Img3 from "../../assets/images/website-img-3.png";
+import img4 from "../../assets/images/wiz2.jpeg";
+import img5 from "../../assets/images/ecwid.png";
 
 const projects = [
   {
-    name: " Students Self Service desk ",
+    name: " Students Self Service Desk ",
     year: " New Brunswick Community College ",
     align: "left",
     image: Img1,
     link: "#",
+    descriptionPoints: ["a point here", "a point here", "a point here"],
   },
   {
     name: "Real Estate Website Optimization",
@@ -20,6 +23,7 @@ const projects = [
     align: "right",
     image: Img2,
     link: "#",
+    descriptionPoints: ["something here", "a point here", "a point here"],
   },
   {
     name: "Dashboard & Reporting System",
@@ -27,6 +31,23 @@ const projects = [
     align: "left",
     image: Img3,
     link: "#",
+    descriptionPoints: ["something here", "a point here", "a point here"],
+  },
+  {
+    name: "Software Analysis & Optimization",
+    year: "WIZV2",
+    align: "right",
+    image: img4,
+    link: "#",
+    descriptionPoints: ["something here", "a point here", "a point here"],
+  },
+  {
+    name: "E-commerce Workflow Automation",
+    year: "Ecwid",
+    align: "left",
+    image: img5,
+    link: "#",
+    descriptionPoints: ["something here", "a point here", "a point here"],
   },
 ];
 
@@ -50,6 +71,7 @@ const ProjectsMain = () => {
               year={project.year}
               align={project.align}
               image={project.image}
+              descriptionPoints={project.descriptionPoints}
             />
           );
         })}

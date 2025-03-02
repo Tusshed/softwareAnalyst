@@ -11,14 +11,21 @@ const ExperienceTopLeft = () => {
         <p className="font-bold text-6xl text-lightBrown">-</p>
         <ExperienceInfo number="12" text="Websites" />
       </div>
+      <h2 className="text-2xl font-bold">
+        Why{" "}
+        <span className="text-orange font-extrabold">
+          Gabriel Tolulope Oginni
+        </span>
+        ?
+      </h2>
+
       <p className="text-center">
-        Why Gabriel Tolulope Oginni? <br></br> With 6 years of hands-on
-        experience in software testing and quality assurance, Gabriel brings
-        deep analytical skills, a strong technical background, and a passion for
-        ensuring software reliability. His expertise in financial software
-        testing, combined with a commitment to continuous learning and process
-        improvement, makes him a valuable asset in any software development and
-        QA team.
+        With 6 years of hands-on experience in software testing and quality
+        assurance, Gabriel brings deep analytical skills, a strong technical
+        background, and a passion for ensuring software reliability. His
+        expertise in financial software testing, combined with a commitment to
+        continuous learning and process improvement, makes him a valuable asset
+        in any software development and QA team.
       </p>
     </div>
   );
