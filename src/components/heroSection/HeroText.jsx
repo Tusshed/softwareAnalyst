@@ -18,7 +18,7 @@ const HeroText = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0 }}
-        className="md:text-[2.8rem] lg:text-4xl sm:text-4xl text-orange font-bold uppercase"
+        className="md:text-[2.8rem] lg:text-6xl sm:text-4xl text-orange font-bold uppercase"
       >
         Gabby <br className="sm:hidden md:block" />
         Tech House
