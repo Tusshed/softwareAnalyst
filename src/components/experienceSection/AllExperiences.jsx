@@ -12,6 +12,7 @@ const experiences = [
       "Defined test strategies with developers and analysts.",
       "Conducted regression testing and tracked defects in JIRA.",
       "Ensured compliance with banking standards and security rules throughout the testing process.",
+      "Streamlined QA processes for faster issue detection and resolution.",
     ],
   },
   {
@@ -22,6 +23,7 @@ const experiences = [
       "Ensured clarity and testability of project requirements.",
       "Designed and executed functional and non-functional test cases.",
       "Tracked defects and improved testing with automation tools.",
+      "Collaborated with developers and stakeholders to maintain software quality.",
     ],
   },
   {
@@ -32,6 +34,7 @@ const experiences = [
       "Ensured app stability under high user traffic.",
       "Verified content security to prevent piracy and unauthorized access.",
       "Tested core features like video playback, search, and subscriptions.",
+      "Identified and reported bugs related to streaming quality, app crashes, and navigation issues.",
     ],
   },
 ];
