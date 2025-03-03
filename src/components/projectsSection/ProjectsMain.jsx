@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 import Img1 from "../../assets/images/website-img-1.jpg";
 import Img2 from "../../assets/images/website-img-4.jpg";
-import Img3 from "../../assets/images/nolly.png";
+import Img6 from "../../assets/images/nolly.png";
 import img4 from "../../assets/images/wiz2.jpeg";
 import img5 from "../../assets/images/ecwid.png";
 
@@ -37,7 +37,7 @@ const projects = [
     name: "Streaming & Content Delivery",
     year: "CircuitTv",
     align: "left",
-    image: Img3,
+    image: Img6,
     link: "#",
     descriptionPoints: [
       "Tested app features to determine which resonated best with users.",
