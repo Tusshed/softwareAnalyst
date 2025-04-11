@@ -28,7 +28,7 @@ const projects = [
     image: Img2,
     link: "#",
     descriptionPoints: [
-      "Helped to create the visual look and feel of the page.",
+      "Helped create the visual look and feel of the entire design.",
       "Simulated high-traffic scenarios to ensure platform stability.",
       "Ensured the page's forms and data collection work correctly.",
     ],
@@ -54,7 +54,7 @@ const projects = [
     descriptionPoints: [
       "Tested mobile app UI/UX for consistency and ease of use.",
       "Assessed app performance with multiple connected bulbs.",
-      "Verified Wi-Fi/Bluetooth connectivity for proper bulb synchronization.",
+      "Verified Wi-Fi/Bluetooth connectivity for proper bulb sync.",
     ],
   },
   {
